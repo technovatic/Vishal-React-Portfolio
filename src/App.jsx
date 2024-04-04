@@ -91,7 +91,7 @@ function App() {
         </motion.div>
       </section>
       <section id="blog">
-        <Heading firstWord="My" secondWord="Blog" />
+        <Heading firstWord="My" secondWord=" UI Designs" />
         <div className="posts">
           {blogPosts.map((post, index) => (
             <BlogPost
@@ -103,8 +103,8 @@ function App() {
             />
           ))}
         </div>
-        <a className="cyber-scourge" href="https://blog.randiltharusha.me">
-          View More Posts
+        <a className="cyber-scourge" href="https://www.behance.net/vishalkelur1">
+          View More UI Designs
         </a>
       </section>
       <section id="contact">

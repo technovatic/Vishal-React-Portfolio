@@ -1,31 +1,31 @@
 //projects start
 const projects = [
   {
-    name: "Booking.com clone",
+    name: "Google clone",
     description:
-      "A clone of booking.com which is built using Nextjs 14 and Oxylabs webscraping API to scrape data from the official booking.com website and show as results of our queries",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
-    img: "/bookingcom.jpg",
-    preview: "https://bookingcomnext14.netlify.app/",
+      "A clone of google.com which is built using React, Material UI, React-Router-DOM, Forms, Event Handling. This is designed where user can search there interested topics ",
+    stack: ["React", "NodeJS", "React-Router-DOM", "Material-UI"],
+    sourceCode: "https://github.com/technovatic/Google.git",
+    img: "/googleclone.jpg",
+    preview: "https://clone-d1ff9.web.app/",
   },
   {
-    name: "Cyberscourge Hub",
+    name: "Real Estate Application",
     description:
-      "An open source ultra fast markdown blog app built using Hugo and deployed on Netlify. The theme of this app is 100% custom built by me. The theme is also open source and can be found on my github profile. And I regularly write articles on this blog.",
+      "An Real Estate Application built Using React, JSX, Card Components and NodeJS. The Main use of this application is where users can Buy, Sell their Properties (i.e., Real Estate Management Application)",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/cyberscourge-hub",
-    img: "/cyberscourge.jpg",
-    preview: "https://rtharusha.tech",
+    sourceCode: "https://github.com/technovatic/React-Real-Estate",
+    img: "/realestate.jpg",
+    preview: "https://react-real-estate-livid.vercel.app/",
   },
   {
-    name: "Jotion (Notion Clone)",
+    name: "Crypto Listing ",
     description:
-      "A clone of the popular note taking app Notion. This app is built using Nextjs 13 and Tailwind CSS. It uses clerk for authentication and convex for its real time database. The project is not yet complete ",
+      "The Crypto Listing Application Built Using React, NodeJS, CoinGecko API, Tailwind CSS. The Application is Deployed in Netlify",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/notion-clone",
-    img: "/jotion.jpg",
-    preview: "#",
+    sourceCode: "https://github.com/technovatic/Crypto-Listing",
+    img: "/cryptolisting.jpg",
+    preview: "https://634094e0ead9df07c74a5647--astounding-semifreddo-a15129.netlify.app/",
   },
 ];
 
